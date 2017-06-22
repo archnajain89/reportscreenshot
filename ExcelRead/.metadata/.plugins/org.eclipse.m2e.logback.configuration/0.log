@@ -1,0 +1,8 @@
+2017-06-22 16:12:24,742 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: excel:excel:0.0.1-SNAPSHOT @ D:\projects\excelReadHome-master\excel\pom.xml.
+2017-06-22 16:12:25,167 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /excel/src/main/java
+2017-06-22 16:12:25,167 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /excel/src/test/java
+2017-06-22 16:12:25,211 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-06-22 16:12:25,812 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:12:25,815 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\excelReadHome-master\excel\src\main\resources
+2017-06-22 16:12:25,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:12:25,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\excelReadHome-master\excel\src\test\resources

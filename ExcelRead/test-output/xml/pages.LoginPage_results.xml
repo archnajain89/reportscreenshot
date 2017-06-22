@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="39.529">
+  <properties />
+  
+  
+            <testcase name="setData" time="7.977" classname="pages.LoginPage" />
+                <testcase name="setData" time="7.805" classname="pages.LoginPage" />
+                <testcase name="setData" time="8.195" classname="pages.LoginPage" />
+                <testcase name="setData" time="7.741" classname="pages.LoginPage" />
+                <testcase name="setData" time="7.811" classname="pages.LoginPage" />
+      
+</testsuite>
